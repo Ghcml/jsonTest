@@ -1,10 +1,7 @@
-[{
+{
   "categories": [{}, {}, {}],
   "entities": [{
     "name": "office_floor",
     "value": "13"
-  }, {
-
   }]
 }
-]

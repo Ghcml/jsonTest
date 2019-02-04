@@ -1,6 +1,10 @@
 {
     "categories": [
-      { },
+      {"name":"pedido de dispositivo",
+       "description":"Pedir un dispositivo tal como mouse,teclado adaptador",
+       "template": {
+         "device": "string"
+       }},
       { },
       { }
     ],
